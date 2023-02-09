@@ -25,6 +25,8 @@ No (States is a coach)
 
 `...See, it doesn't matter what certificates, licenses and "training" one goes through be help people... a person can only take you as far as they've gone within themselves. And thats ultimately what distinguishes me from others.`
 
+[Disclaimer](https://www.awakeningwithbrian.com/disclaimer/)
+
 `We encourage you to consult your physician and/or a licensed therapist if you suspect you may benefit from such services. We will assume that all individuals choosing to consume or implement any information found on Website will have previously obtained clearance and permission from their applicable personal medical physician or therapist, and has concluded that coaching information may be useful or right for them. `
 
 ### Other Notes
