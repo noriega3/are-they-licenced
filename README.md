@@ -1,10 +1,13 @@
 # Inspiration
-Since going on a side-quest social media therapy journey, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give.
+Since going on a side-quest social media therapy journey, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
+
+Last Updated: 02/09/23
 
 # Table of Contents
 - bianca.selflove
 - forloveweheal
 - healing.embodied
+- thedepressionproject
 - the.holistic.psychologist
 - thelovedrive
 
@@ -34,6 +37,7 @@ as needed.
 
 ### Other Notes
 - Instagram name changes: 3
+- States as Therapist on IG, but not certified as one.
 
 ---
 ## forloveweheal
@@ -42,7 +46,7 @@ as needed.
 [Instagram](https://www.instagram.com/forloveweheal/)
 
 ### Licenced? 
-Yes 
+Yes*
 
 *Canada Counsellor
 
@@ -57,7 +61,7 @@ Psychodrama Psychotherapy, CBT, DBT, Narrative Therapy, Breathwork, Solution Foc
 ```
 
 ### Other Notes
-- The notes: (Experiential work as both a practitioner and the client)
+- The note of (Experiential work as both a practitioner and the client)
 - A counsellor or psychotherapist certified by the Canadian Counselling and Psychotherapy Association (CCPA) is a “Canadian Certified Counsellor”, sometimes abbreviated to CCC. Members of the Canadian Professional Counsellors Association (CPCA) are **“Registered Professional Counsellors” (or RPCs).**
 
 ---
@@ -83,6 +87,29 @@ Yes*
 - Not all of her team is certified, but is centered around therapy
 - A lot of pushes for her courses and online resources.
 - Does understand that social media has its place: https://www.instagram.com/p/CnZlsZLLG1m/
+
+---
+## thedepressionproject
+##### Date Reviewed: 02/09/23
+
+[Instagram](https://www.instagram.com/thedepressionproject/)
+
+### Licenced? 
+Yes/No*
+
+*One founder persued a path to become a therapist, but ultimately became a counselor instead based below, other is a depression survivor
+
+### Source(s):
+[About](https://thedepressionproject.com/about)
+
+``
+[Mathew Baker] To become a therapist, there’s a pretty standard path you’re expected to follow – study for 5 or 6 years, get your qualifications, and then begin working one-on-one with clients. I started along this path studying a Bachelor’s in Psychology, but the deeper I got into it, the more I grew disheartened by the industry I’d originally dreamed of entering. This disenchantment continued to grow while I did my Master’s of Counselling, and it grew even more so in my early years after graduating, when I worked in a range of settings including in drug and alcohol rehabilitation, with at-risk youth, and in a homeless refuge. By that point in time, my problems with the industry had become crystal clear.
+``
+
+### Other Notes
+- Mathew Baker is stated as head of Content creation, indicating IG posts are probably from him
+- Pushes courses a ton of courses and books
+- Has an agenda.
 ---
 
 ## the.holistic.psychologist
