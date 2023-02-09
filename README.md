@@ -4,6 +4,7 @@ Since starting on a side-quest into social media therapy journey, I felt it was 
 Last Updated: 02/09/23
 
 # Table of Contents
+- adhd_couple
 - awakeningwithbrian
 - bianca.selflove
 - forloveweheal
@@ -11,6 +12,25 @@ Last Updated: 02/09/23
 - thedepressionproject
 - the.holistic.psychologist
 - thelovedrive
+---
+## adhd_couple
+##### Date Reviewed: 02/09/23
+
+[Instagram](https://www.instagram.com/adhd_couple/)
+
+### Licenced?
+No (States is a coach)
+
+### Source(s):
+[Coaching](https://adhd-couple.com/coaching/)
+
+`ADHD Coaching is a partnership between a client and ADHD coach. Together they target the core struggles of ADHD, helping the client to close the gap of where they currently are and where they would like to be. ADHD coaches have knowledge and life experience of ADHD, as well as necessary training to help the client identify and reach their goals effectively. Studies show that coaching can significantly improve ADHD symptoms and executive functioning.`
+
+### Other Notes
+- Instagram name changes: 1
+- No personable information found that validates they are certified for ADHD information or ADHD coaching (if there is such a thing)
+- Most informational in cartoon/meme formats, based in the UK
+
 ---
 ## awakeningwithbrian
 ##### Date Reviewed: 02/09/23
@@ -33,7 +53,6 @@ No (States is a coach)
 - Instagram name changes: 1
 - Is a coach, but in his about, attempts to discredit those with certificates, licences and training to help people and push his course.
 
----
 ---
 ## bianca.selflove 
 ##### Date Reviewed: 02/09/23
