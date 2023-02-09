@@ -1,16 +1,37 @@
 # Inspiration
-Since going on a side-quest social media therapy journey, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
+Since starting on a side-quest into social media therapy journey, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
 Last Updated: 02/09/23
 
 # Table of Contents
+- awakeningwithbrian
 - bianca.selflove
 - forloveweheal
 - healing.embodied
 - thedepressionproject
 - the.holistic.psychologist
 - thelovedrive
+---
+## awakeningwithbrian
+##### Date Reviewed: 02/09/23
 
+[Instagram](https://www.instagram.com/awakeningwithbrian/)
+
+### Licenced?
+No (States is a coach)
+
+### Source(s):
+[About](https://www.awakeningwithbrian.com/#about)
+
+`...See, it doesn't matter what certificates, licenses and "training" one goes through be help people... a person can only take you as far as they've gone within themselves. And thats ultimately what distinguishes me from others.`
+
+`We encourage you to consult your physician and/or a licensed therapist if you suspect you may benefit from such services. We will assume that all individuals choosing to consume or implement any information found on Website will have previously obtained clearance and permission from their applicable personal medical physician or therapist, and has concluded that coaching information may be useful or right for them. `
+
+### Other Notes
+- Instagram name changes: 1
+- Is a coach, but in his about, attempts to discredit those with certificates, licences and training to help people and push his course.
+
+---
 ---
 ## bianca.selflove 
 ##### Date Reviewed: 02/09/23
@@ -108,8 +129,8 @@ Yes/No*
 
 ### Other Notes
 - Mathew Baker is stated as head of Content creation, indicating IG posts are probably from him
-- Pushes courses a ton of courses and books
-- Has an agenda.
+- Pushes a ton of courses and books within their posts
+
 ---
 
 ## the.holistic.psychologist
