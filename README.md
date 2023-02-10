@@ -4,15 +4,15 @@ Since starting on a side-quest into social media therapy, I felt it was importan
 Last Updated: 02/10/23
 
 # Table of Contents
-- adhd_couple
-- awakeningwithbrian
-- bianca.selflove
-- drjenwolkin
-- forloveweheal
-- healing.embodied
-- thedepressionproject
-- the.holistic.psychologist
-- thelovedrive
+- [adhd_couple](#adhd_couple)
+- [awakeningwithbrian](#awakeningwithbrian)
+- [bianca.selflove](#biancaselflove)
+- [drjenwolkin](#drjenwolkin)
+- [forloveweheal](#forloveweheal)
+- [healing.embodied](#healingembodied)
+- [thedepressionproject](#thedepressionproject)
+- [the.holistic.psychologist](#theholisticpsychologist)
+- [thelovedrive](#thelovedrive)
 ---
 ## adhd_couple
 ##### Date Reviewed: 02/09/23
