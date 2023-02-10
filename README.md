@@ -10,6 +10,7 @@ Last Updated: 02/10/23
 - [drjenwolkin](#drjenwolkin)
 - [forloveweheal](#forloveweheal)
 - [healing.embodied](#healingembodied)
+- [mentalhealthceo](#mentalhealthceo)
 - [thedepressionproject](#thedepressionproject)
 - [the.holistic.psychologist](#theholisticpsychologist)
 - [thelovedrive](#thelovedrive)
@@ -109,7 +110,7 @@ I am currently a member of the American Psychological Association (APA), New Yor
 ``
 
 ### Other Notes
-
+- adhd focused + trauma + anxiety
 
 ---
 ## forloveweheal
@@ -135,7 +136,31 @@ Psychodrama Psychotherapy, CBT, DBT, Narrative Therapy, Breathwork, Solution Foc
 - A counsellor or psychotherapist certified by the Canadian Counselling and Psychotherapy Association (CCPA) is a “Canadian Certified Counsellor”, sometimes abbreviated to CCC. Members of the Canadian Professional Counsellors Association (CPCA) are **“Registered Professional Counsellors” (or RPCs).**
 
 ---
+## mentalhealthceo
+##### Date Reviewed: 02/10/23
 
+[Instagram](https://www.instagram.com/mentalhealthceo/)
+
+### Licenced? 
+No (States as 'mental health service')
+
+### Source(s):
+[LinkedIn](https://www.linkedin.com/in/ron-yap-980ba4160)
+
+``
+I run @mentalhealthceo, a page dedicated to mental health advocacy with over 170k followers as of October 2022. 
+``
+``
+Panelist and Speaker for Beyond The Label, National Council of Social Sciences and the Young Southeast Asian Leaders Initiative in partnership with the US Embassy in Vietnam. Featured on Channel News Asia, AsiaOne and Our Grandfather Story as profiles for documentaries and articles.
+``
+
+### Other Notes
+- Is an inspiring writer, voice actor, and growth consultant based on linkedin profile
+- most of his content on IG is comic-style per post
+- does not source all of his findings, but does in the description when he does.
+- singapore-based
+
+---
 ## healing.embodied
 ##### Date Reviewed: 02/09/23
 
