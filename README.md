@@ -7,6 +7,7 @@ Last Updated: 02/09/23
 - adhd_couple
 - awakeningwithbrian
 - bianca.selflove
+- drjenwolkin
 - forloveweheal
 - healing.embodied
 - thedepressionproject
@@ -80,6 +81,26 @@ as needed.
 ### Other Notes
 - Instagram name changes: 3
 - States as Therapist on IG, but not certified as one.
+---
+## drjenwolkin
+##### Date Reviewed: 02/09/23
+
+[Instagram](https://www.instagram.com/drjenwolkin/)
+
+### Licenced?
+Yes
+
+### Source(s):
+[About](https://www.quickcalmbook.com/about-dr-jen/)
+
+`Jennifer Wolkin, PhD is a New York City based licensed clinical neuropsychologist, writer, speaker, and mental health advocate.`
+
+[BrainCurves](https://braincurves.com/my-credentials/)
+
+`I am currently a member of the American Psychological Association (APA), New York State Psychological Association (NYSPA), International Neuropsychological Society (INS), Society of Behavioral Medicine (SBM), Association for Applied Psychophysiology and Biofeedback (AAPB).`
+
+### Other Notes
+
 
 ---
 ## forloveweheal
