@@ -1,7 +1,7 @@
 # Inspiration
-Since starting on a side-quest into social media therapy journey, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
+Since starting on a side-quest into social media therapy, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
-Last Updated: 02/09/23
+Last Updated: 02/10/23
 
 # Table of Contents
 - adhd_couple
@@ -25,7 +25,9 @@ No (States is a coach)
 ### Source(s):
 [Coaching](https://adhd-couple.com/coaching/)
 
-`ADHD Coaching is a partnership between a client and ADHD coach. Together they target the core struggles of ADHD, helping the client to close the gap of where they currently are and where they would like to be. ADHD coaches have knowledge and life experience of ADHD, as well as necessary training to help the client identify and reach their goals effectively. Studies show that coaching can significantly improve ADHD symptoms and executive functioning.`
+``
+ADHD Coaching is a partnership between a client and ADHD coach. Together they target the core struggles of ADHD, helping the client to close the gap of where they currently are and where they would like to be. ADHD coaches have knowledge and life experience of ADHD, as well as necessary training to help the client identify and reach their goals effectively. Studies show that coaching can significantly improve ADHD symptoms and executive functioning.
+``
 
 ### Other Notes
 - Instagram name changes: 1
@@ -44,11 +46,15 @@ No (States is a coach)
 ### Source(s):
 [About](https://www.awakeningwithbrian.com/#about)
 
-`...See, it doesn't matter what certificates, licenses and "training" one goes through be help people... a person can only take you as far as they've gone within themselves. And thats ultimately what distinguishes me from others.`
+``
+...See, it doesn't matter what certificates, licenses and "training" one goes through be help people... a person can only take you as far as they've gone within themselves. And thats ultimately what distinguishes me from others.
+``
 
 [Disclaimer](https://www.awakeningwithbrian.com/disclaimer/)
 
-`We encourage you to consult your physician and/or a licensed therapist if you suspect you may benefit from such services. We will assume that all individuals choosing to consume or implement any information found on Website will have previously obtained clearance and permission from their applicable personal medical physician or therapist, and has concluded that coaching information may be useful or right for them. `
+``
+We encourage you to consult your physician and/or a licensed therapist if you suspect you may benefit from such services. We will assume that all individuals choosing to consume or implement any information found on Website will have previously obtained clearance and permission from their applicable personal medical physician or therapist, and has concluded that coaching information may be useful or right for them. 
+``
 
 ### Other Notes
 - Instagram name changes: 1
@@ -66,24 +72,23 @@ No
 ### Source(s):
 [Terms of Service](https://biancaselflovecoach.podia.com/terms)
 
-```
+``
 Client acknowledges that Bianca Ioana Cojocaru is not a medical doctor or psychologist. Client acknowledges that Bianca Ioana Cojocaru is not medically qualified, is not a substitute for advice from a qualified doctor, does not warrant the accuracy of any information provided, is not liable for any losses Client may suffer by relying on Bianca Ioana Cojocaru’s advice.
+``
 
-```
-
-```
+``
 Client acknowledges that this program/course does not involve the diagnosis or treatment of
 mental disorders and that this course is not to be used as a substitute for counseling, psychotherapy, psychoanalysis, mental health care, substance abuse treatment, or
 other professional advice by legal, medical, or other qualified professionals and that it is the Client’s exclusive responsibility to seek such independent professional guidance
 as needed.
-```
+``
 
 ### Other Notes
 - Instagram name changes: 3
 - States as Therapist on IG, but not certified as one.
 ---
 ## drjenwolkin
-##### Date Reviewed: 02/09/23
+##### Date Reviewed: 02/10/23
 
 [Instagram](https://www.instagram.com/drjenwolkin/)
 
@@ -93,11 +98,15 @@ Yes
 ### Source(s):
 [About](https://www.quickcalmbook.com/about-dr-jen/)
 
-`Jennifer Wolkin, PhD is a New York City based licensed clinical neuropsychologist, writer, speaker, and mental health advocate.`
+``
+Jennifer Wolkin, PhD is a New York City based licensed clinical neuropsychologist, writer, speaker, and mental health advocate.
+``
 
 [BrainCurves](https://braincurves.com/my-credentials/)
 
-`I am currently a member of the American Psychological Association (APA), New York State Psychological Association (NYSPA), International Neuropsychological Society (INS), Society of Behavioral Medicine (SBM), Association for Applied Psychophysiology and Biofeedback (AAPB).`
+``
+I am currently a member of the American Psychological Association (APA), New York State Psychological Association (NYSPA), International Neuropsychological Society (INS), Society of Behavioral Medicine (SBM), Association for Applied Psychophysiology and Biofeedback (AAPB).
+``
 
 ### Other Notes
 
@@ -116,13 +125,11 @@ Yes*
 ### Source(s):
 [Staff](https://biancaselflovecoach.podia.com/terms)
 
-```
+``
 Registered Professional Counsellor License #3929 – Canadian Professional Counsellors Association
 Professional Counsellors Diploma – Rhodes Wellness College
 Psychodrama Psychotherapy, CBT, DBT, Narrative Therapy, Breathwork, Solution Focused Therapy – Rhodes Wellness College (Experiential work as both a practitioner and the client)
-
-```
-
+``
 ### Other Notes
 - The note of (Experiential work as both a practitioner and the client)
 - A counsellor or psychotherapist certified by the Canadian Counselling and Psychotherapy Association (CCPA) is a “Canadian Certified Counsellor”, sometimes abbreviated to CCC. Members of the Canadian Professional Counsellors Association (CPCA) are **“Registered Professional Counsellors” (or RPCs).**
@@ -142,10 +149,9 @@ Yes*
 ### Source(s):
 [About](https://www.healingembodied.com/about)
 
-```
+``
 [Chelsea] is a Board Certified-Dance/Movement Therapist with who has facilitated hundreds of sessions with those who are experiencing intense anxiety.
-
-```
+``
 ### Other Notes
 - Not all of her team is certified, but is centered around therapy
 - A lot of pushes for her courses and online resources.
@@ -188,11 +194,10 @@ Yes*
 ### Source(s):
 [Book under About Me](https://theholisticpsychologist.com/book#book_meditation)
 
-```
+``
 Dr. Nicole LePera was trained in clinical psychology at Cornell University
 and the New School for Social Research. She also studied at the Philadelphia School of Psychoanalysis.
-
-```
+``
 ### Other Notes
 - License proof: https://twitter.com/Theholisticpsyc/status/1585400701794287617/photo/1
 - This vice article stating some concerns of her practices
@@ -214,12 +219,14 @@ No*
 [About](https://www.shaungalanos.com/about/)
 
 [Disclaimer](https://www.shaungalanos.com/disclaimer/)
-```
+
+``
 I started The Love Drive podcast and have interviewed over 100 experts and thought leaders in the field of love. I became certified as a rape-crisis counselor to support women in their healing journey after abuse. And I obtained coaching certifications to deepen my understanding of how to serve my clients best.
-```
-```
+``
+
+``
 The material provided here is for educational and informational purposes only and is not intended as medical, business, or any other type of advice. All information contained in this site, and any of the Company’s sites (listed above), should not be used to diagnose or treat any illness, metabolic disorder, disease, or other health problems, or any business-related issue.
-```
+``
 ### Other Notes
 - The "listed above", provided no list, indicating their privacy policy may be a template.
 - No sort of licence or accreddation to provide that coaching that may/may not work.
