@@ -11,6 +11,7 @@ Last Updated: 02/10/23
 - [forloveweheal](#forloveweheal)
 - [healing.embodied](#healingembodied)
 - [mentalhealthceo](#mentalhealthceo)
+- [notesfromyourtherapist](#notesfromyourtherapist)
 - [thedepressionproject](#thedepressionproject)
 - [the.holistic.psychologist](#theholisticpsychologist)
 - [thelovedrive](#thelovedrive)
@@ -159,6 +160,40 @@ Panelist and Speaker for Beyond The Label, National Council of Social Sciences a
 - most of his content on IG is comic-style per post
 - does not source all of his findings, but does in the description when he does.
 - singapore-based
+
+---
+## notesfromyourtherapist
+##### Date Reviewed: 02/10/23
+
+[Instagram](https://www.instagram.com/notesfromyourtherapist/)
+
+### Licenced? 
+Yes-ish*
+
+### Source(s):
+[hipaaspace.com](https://www.hipaaspace.com/medical_billing/coding/national_provider_identifier/codes/npi_1841347887.aspx) | 
+[npi lookup](https://www.npinumberlookup.org/allyson-dinneen-great-barrington-ma-1841347887)
+
+``
+Allyson M Dinneen ( ALLYSON M DINNEEN ) is Definition Counselor Physician in Great Barrington, MA. The NPI Number for Allyson M Dinneen is 1841347887.
+``
+
+``
+Scope of Practice (Taxonomy)
+101YM0800X	Mental Health Counselor	
+``
+
+[2021 interview](https://theberkshireedge.com/notes-from-your-neighborhood-therapist-an-interview-with-allyson-dinneen/)
+
+``
+It took me years to recover. It was six years after Rafe died before I considered going back to being a therapist. But this time, I was going to do it my way. I didn’t know what that looked like. There were no therapists on Instagram then [in 2015.] It was just a photo app.
+``
+
+### Other Notes
+- *A little unsure of the sources of her credentials, not been updated since 2005/2007
+- Specifies as a writer on IG, unknown if still actively practices as a traditional therapist within her state of MA
+- According to a 2021 interview, she has attempted to be a therapist again, but "her way" aka creating the IG account back in 2015.
+- Former username changes: 1
 
 ---
 ## healing.embodied
