@@ -6,6 +6,7 @@ Since starting on a side-quest into social media therapy, I felt it was importan
 Last Updated: 02/11/23
 
 # Table of Contents
+- [artofdatingnyc](#artofdatingnyc)
 - [adhd_couple](#adhd_couple)
 - [awakeningwithbrian](#awakeningwithbrian)
 - [bianca.selflove](#biancaselflove)
@@ -18,6 +19,28 @@ Last Updated: 02/11/23
 - [thedepressionproject](#thedepressionproject)
 - [the.holistic.psychologist](#theholisticpsychologist)
 - [thelovedrive](#thelovedrive)
+---
+## artofdatingnyc
+##### Date Reviewed: 02/11/23
+
+[Instagram](https://www.instagram.com/artofdatingnyc/)
+
+### Licenced? 
+No (states as a Coach)
+
+### Source(s):
+[About](https://artofdatingllc.mykajabi.com/about)
+
+``
+...I enlisted professionals to help identify my blind spots and resolve issues. I ate, slept and breathed relationships and eventually become an “expert”. This is how I became a certified coach.
+``
+
+### Other Notes
+- Eunice Hong is a Coach
+- No privacy policy, no terms of service that I could find
+- Basically have to trust her word from the about page.
+- Certified dating coach, but no reference where the certification was obtained
+
 ---
 ## adhd_couple
 ##### Date Reviewed: 02/09/23
