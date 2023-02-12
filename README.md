@@ -1,7 +1,7 @@
 # Inspiration
 Since starting on a side-quest into social media therapy, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
-Last Updated: 02/10/23
+Last Updated: 02/11/23
 
 # Table of Contents
 - [adhd_couple](#adhd_couple)
@@ -10,6 +10,7 @@ Last Updated: 02/10/23
 - [drjenwolkin](#drjenwolkin)
 - [forloveweheal](#forloveweheal)
 - [healing.embodied](#healingembodied)
+- [lovingmeafterwe](#lovingmeafterwe)
 - [mentalhealthceo](#mentalhealthceo)
 - [notesfromyourtherapist](#notesfromyourtherapist)
 - [thedepressionproject](#thedepressionproject)
@@ -218,6 +219,49 @@ Yes*
 - Does understand that social media has its place: https://www.instagram.com/p/CnZlsZLLG1m/
 
 ---
+## lovingmeafterwe
+##### Date Reviewed: 02/11/23
+
+[Instagram](https://www.instagram.com/lovingmeafterwe/)
+
+### Licenced? 
+Yes* 
+
+### Source(s):
+[Terms of Service](https://learn.lovingmeafterwe.com/terms/)
+
+``
+(B) The Program is an educational/coaching service only.
+``
+
+``
+NO SUBSTITUTE OF MEDICAL TREATMENT
+``
+
+``
+(A) Client agrees to be mindful of his/her own health and well being during the provision of any services and to seek appropriate medical treatment (including, but not limited to, psychotherapy) if needed.
+``
+
+``
+(B) Company does not provide, and does not hold itself out as providing, medical, therapy, or psychotherapy services.
+``
+
+``
+(C) Company is not responsible for any decisions made by Client as a result of the coaching and any consequences thereof.
+``
+
+[NPI Number Lookup](https://www.npinumberlookup.org/ginger-dean-south-chicago-heights-il-1659830057)
+
+``
+NPI:	1659830057
+``
+
+### Other Notes
+- *Psychiatric nurse practitioners can and do provide psychotherapy, in addition to managing the medical side of psychiatric illnesses.
+- It's a little play on words with her licenced title:  Psychiatric nurse practitioner
+- "...does not provide providing, medical, therapy, or psychotherapy services." is simply coaching with her service.
+---
+
 ## thedepressionproject
 ##### Date Reviewed: 02/09/23
 
