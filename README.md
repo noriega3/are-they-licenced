@@ -12,6 +12,7 @@ Last Updated: 02/12/23
 - [bianca.selflove](#biancaselflove)
 - [drelizabethfedrick](#drelizabethfedrick)
 - [drjenwolkin](#drjenwolkin)
+- [drmanahilriaz](#drmanahilriaz)
 - [forloveweheal](#forloveweheal)
 - [healing.embodied](#healingembodied)
 - [lovingmeafterwe](#lovingmeafterwe)
@@ -179,7 +180,31 @@ I am currently a member of the American Psychological Association (APA), New Yor
 
 ### Other Notes
 - adhd focused + trauma + anxiety
+---
+## dr.manahilriaz
 
+##### Date Reviewed: 02/12/23
+
+[Instagram](https://www.instagram.com/dr.manahilriaz/)
+
+### Licenced? 
+Yes (states as Mental health service)
+
+### Source(s):
+[PsychologyToday Profile](https://www.psychologytoday.com/us/therapists/manahil-riaz-bellaire-tx/832386)
+
+```
+Qualifications
+Years in Practice: 10 Years
+License: Texas / 71592
+School: University of Houston
+Year Graduated: 2018
+```
+
+### Other Notes
+- Verified by Psychology Today, if that accounts for anything
+- Specialties: depression, anxiety, relationships & trauma EMDR trained
+- Mixed amount of post types
 ---
 ## forloveweheal
 ##### Date Reviewed: 02/09/23
