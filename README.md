@@ -1,6 +1,8 @@
 # Inspiration
 Since starting on a side-quest into social media therapy, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
+[Blog - Adjusting my mindset to those with abuse and trauma.](https://blog.briannoriega.com/adjusting-my-mindset-trauma/)
+
 Last Updated: 02/11/23
 
 # Table of Contents
