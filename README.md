@@ -3,13 +3,14 @@ Since starting on a side-quest into social media therapy, I felt it was importan
 
 [Blog - Adjusting my mindset to those with abuse and trauma.](https://blog.briannoriega.com/adjusting-my-mindset-trauma/)
 
-Last Updated: 02/11/23
+Last Updated: 02/12/23
 
 # Table of Contents
 - [artofdatingnyc](#artofdatingnyc)
 - [adhd_couple](#adhd_couple)
 - [awakeningwithbrian](#awakeningwithbrian)
 - [bianca.selflove](#biancaselflove)
+- [drelizabethfedrick](#drelizabethfedrick)
 - [drjenwolkin](#drjenwolkin)
 - [forloveweheal](#forloveweheal)
 - [healing.embodied](#healingembodied)
@@ -114,6 +115,46 @@ as needed.
 ### Other Notes
 - Instagram name changes: 3
 - States as Therapist on IG, but not certified as one.
+---
+## drelizabethfedrick
+##### Date Reviewed: 02/12/23
+
+[Instagram](https://www.instagram.com/drelizabethfedrick/)
+
+### Licenced? 
+Yes* (states as coach/service, has PhD and is a professor in behavior health)
+
+### Source(s):
+
+[About - Evolve Counseling](https://www.evolvecounselingaz.com/dr-elizabeth-fedrick#:~:text=She%20has%20a%20doctoral%20degree,motivation%20%26%20self%2Desteem)
+
+``
+Dr. Elizabeth Fedrick a Licensed Professional Counselor in the state of Arizona ... She has a doctoral degree in Psychology, as well as a master’s degree in Professional Counseling.
+``
+ 
+``
+Dr. Fedrick is a relationship expert, and specializes in working with depression, anxiety, trauma, attachment, intimacy, grief and loss, life transitions, and personal improvement (including motivation & self-esteem).
+``
+
+
+[About - Personal site](https://www.drelizabethfedrick.com/)
+
+``
+Dr. Fedrick is a professor at Grand Canyon University, where she teaches behavioral health and psychology courses. 
+``
+
+``
+Dr. Elizabeth Fedrick is a Relationship & Intimacy Coach and specializes in emotional and physical intimacy, relationship barriers, communication skills, and helping her clients to break the "toxic cycle" & address dysfunctional relational behaviors.
+``
+
+[NPI Lookup](https://www.npinumberlookup.org/elizabeth-fedrick-gilbert-az-1154770113)
+
+``1154770113``
+
+### Other Notes
+- Many of her posts are bullet points
+- Like many others, many bullet pointed posts have a description justifying who the list is for and gives more context. Her's have a lot of 'While,' or 'However,' to say this isn't tell the entire picture
+
 ---
 ## drjenwolkin
 ##### Date Reviewed: 02/10/23
