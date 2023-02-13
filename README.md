@@ -1,7 +1,7 @@
 # Inspiration
 Since starting on a side-quest into social media therapy, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
-Last Updated: 02/12/23
+Last Updated: 02/13/23
 
 # Table of Contents
 - [artofdatingnyc](#artofdatingnyc)
@@ -15,6 +15,7 @@ Last Updated: 02/12/23
 - [healing.embodied](#healingembodied)
 - [lovingmeafterwe](#lovingmeafterwe)
 - [mentalhealthceo](#mentalhealthceo)
+- [no.bs.therapist](#nobstherapist)
 - [notesfromyourtherapist](#notesfromyourtherapist)
 - [thedepressionproject](#thedepressionproject)
 - [the.holistic.psychologist](#theholisticpsychologist)
@@ -252,6 +253,43 @@ Panelist and Speaker for Beyond The Label, National Council of Social Sciences a
 - singapore-based
 
 ---
+
+## no.bs.therapist
+##### Date Reviewed: 02/13/23
+
+[Instagram](https://www.instagram.com/no.bs.therapist/)
+
+### Licenced? 
+Yes (states as Therapist, licenced in counseling)
+
+### Source(s):
+[Psychology Today About](https://www.psychologytoday.com/us/therapists/jacquelyn-tenaglia-lmhc-boston-ma/104710)
+
+```
+Years in Practice: 14 Years
+License: Massachusetts / 7716
+School: Boston College (M.A., Counseling Psychology)
+Year Graduated: 2009
+--
+Additional Credentials
+Membership: American Counseling Association
+Member Since: 2011
+License No. and State: 010144 New York
+```
+
+[jacquelyntenaglia About](https://jacquelyntenaglia.com/about)
+
+``
+While I still specialize in working with people in recovery and their families, I now predominantly counsel adults around anxiety and stress management. I opened my practice in 2011 and “moonlighted” until transitioning into full-time private practice in 2019. 
+``
+
+### Other Notes
+- Did counciling internships while in college and after for an add. 10+ years.
+- Aware other people in the space exploit social media therapy - https://www.instagram.com/p/Cn6xZfKuEyP/
+- As the name suggests, does call out certain posts like this against the.holistic.psy - https://www.instagram.com/p/CaTdy36sY7f/
+
+---
+
 ## notesfromyourtherapist
 ##### Date Reviewed: 02/10/23
 
