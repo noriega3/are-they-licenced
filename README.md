@@ -1,16 +1,18 @@
 # Inspiration
 Since starting on a side-quest into social media therapy, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
-Last Updated: 02/13/23
+Last Updated: 02/17/23
 
 # Table of Contents
 - [artofdatingnyc](#artofdatingnyc)
 - [adhd_couple](#adhd_couple)
 - [awakeningwithbrian](#awakeningwithbrian)
 - [bianca.selflove](#biancaselflove)
+- [dr.carriejackson](#drcarriejackson)
 - [drelizabethfedrick](#drelizabethfedrick)
 - [drjenwolkin](#drjenwolkin)
 - [drmanahilriaz](#drmanahilriaz)
+- [dr.rscottgornto](#drrscottgornto)
 - [forloveweheal](#forloveweheal)
 - [healing.embodied](#healingembodied)
 - [lovingmeafterwe](#lovingmeafterwe)
@@ -116,6 +118,48 @@ as needed.
 - Instagram name changes: 3
 - States as Therapist on IG, but not certified as one.
 ---
+
+## dr.carriejackson
+##### Date Reviewed: 02/17/23
+
+[Instagram](https://www.instagram.com/dr.carriejackson/)
+
+### Licenced? 
+Yes (as child psychologist)
+
+### Source(s):
+[DCA lookup gov](https://search.dca.ca.gov)
+
+```
+JACKSON, CARRIE
+LICENSE NUMBER: 32824 
+LICENSE TYPE: PSYCHOLOGIST
+LICENSE STATUS: LICENSE RENEWED & CURRENT 
+EXPIRATION DATE: SEPTEMBER 3, 2023
+```
+
+
+[About](https://socalchildpsych.com/about)
+
+``
+Dr. Carrie Jackson received her PhD in Psychology, with a specialization in Clinical Child Psychology, from West Virginia University in 2020. She completed her predoctoral internship at Rady Children’s Hospital through the University of California, San Diego. She then completed a postdoctoral fellowship at Nationwide Children’s Hospital before returning to San Diego, California to open her private practice. 
+``
+
+[Disclaimer](https://socalchildpsych.com/disclaimer)
+
+``
+Reliance on any information provided by Dr. Carrie Jackson is solely at your own risk.  Dr. Carrie Jackson is not liable for any advice or information provided on the site, all of which is provided on an “as-is” basis. No warranties, either express or implied, are made on the information we provide.
+``
+
+``
+The material included on this site is intended for informational purposes only and in no way is meant to replace mental health services provided by a licensed and or registered professional. The primary goal is to assist individuals in determining whether the services and or products provided by Dr. Carrie Jackson would meet their needs. 
+``
+
+### Other Notes
+- mostly caters to parents who have kids kids with adhd, but occassionally posts adult adhd related material
+
+---
+
 ## drelizabethfedrick
 ##### Date Reviewed: 02/12/23
 
@@ -205,6 +249,47 @@ Year Graduated: 2018
 - Specialties: depression, anxiety, relationships & trauma EMDR trained
 - Mixed amount of post types
 ---
+
+## dr.rscottgornto
+##### Date Reviewed: 02/17/23
+
+[Instagram](https://www.instagram.com/dr.rscottgornto/)
+
+### Licenced?
+Yes (states as a Psychotherapist)
+
+### Source(s):
+[About](https://drrscottgornto.com/about/)
+
+``
+Licensed by the State of Texas as a Marriage and Family Therapist.
+``
+
+``
+Dr. Gornto specializes in abuse, addiction (chemical, process and relationship addiction), anxiety, anger, boundaries, coaching (business, executive, leadership, performance), codependency, communication, conflict resolution, depression, emotional intelligence, grief and loss, infidelity repair, relational intelligence, trauma (EMDR trained therapist), parenting & blended family, sexual addiction/recovery and sex therapy.
+``
+
+[State of Texas board](https://vo.licensing.hpc.texas.gov/datamart/detailsTXHPC.do?selector=false&selectorType=&selectorReturnUrl=&anchor=129546e.0.0)
+
+```
+License Number: 5152	
+Name:	GORNTO, RICHARD SCOTT
+License Type:	Marriage and Family Therapist
+License Status:	Active
+Expiry Date:	02/29/2024
+First Licensure Date:	04/28/2005
+Effective Rank Date: 	03/23/2005
+```
+
+[Psychology Today Profile](https://www.psychologytoday.com/intl/contributors/r-scott-gornto)
+
+### Other Notes
+- Licensed by the State of Texas as a Marriage and Family Therapist
+- Some of his posts are lists/bullet points, doesn't give much insight in the description
+- example: https://www.instagram.com/p/CorqgmTM_BG/ = "If you relate to the list above, consider doing research on spousal neglect and getting help from a trauma-informed psychotherapist."
+
+---
+
 ## forloveweheal
 ##### Date Reviewed: 02/09/23
 
