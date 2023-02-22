@@ -1,7 +1,7 @@
 # Inspiration
 Since starting on a side-quest into social media therapy, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
-Last Updated: 02/17/23
+Last Updated: 02/22/23
 
 # Table of Contents
 - [artofdatingnyc](#artofdatingnyc)
@@ -15,6 +15,8 @@ Last Updated: 02/17/23
 - [dr.rscottgornto](#drrscottgornto)
 - [forloveweheal](#forloveweheal)
 - [healing.embodied](#healingembodied)
+- [igototherapy](#igototherapy)
+- [jeanpsychologist](#jeanpsychologist)
 - [lovingmeafterwe](#lovingmeafterwe)
 - [mentalhealthceo](#mentalhealthceo)
 - [no.bs.therapist](#nobstherapist)
@@ -22,6 +24,7 @@ Last Updated: 02/17/23
 - [thedepressionproject](#thedepressionproject)
 - [the.holistic.psychologist](#theholisticpsychologist)
 - [thelovedrive](#thelovedrive)
+- [yung_pueblo](#yung_pueblo)
 ---
 ## artofdatingnyc
 ##### Date Reviewed: 02/11/23
@@ -431,6 +434,45 @@ Yes*
 - Does understand that social media has its place: https://www.instagram.com/p/CnZlsZLLG1m/
 
 ---
+## igototherapy
+
+##### Date Reviewed: 02/22/23
+
+[Instagram](https://www.instagram.com/igototherapy/)
+
+### Licenced? 
+No (see notes)
+
+### Source(s):
+lol none
+
+### Other Notes
+-  in profile: "psychiatry PhD student, not a therapist"
+- "🧠 check out our bio for mental health resources and to find a therapist." is on the end of most post descriptions
+- seems to gather some information from other peoples' posts
+
+---
+## jeanpsychologist
+##### Date Reviewed: 02/22/23
+
+[Instagram](https://www.instagram.com/jeanpsychologist/)
+
+### Licenced? 
+Yes/No (see notes)
+
+### Source(s):
+[Inner child healing - podcast](https://www.becomingmepodcast.com/inner-child-healing-with-dr-jean-cheng-part-1/)
+
+``
+[Dr. Jean Cheng] is a Clinical Psychologist practising in Singapore. She trained in Melbourne, Australia, graduated with a First-Class honours, was awarded the Australian Postgraduate Award scholarship to pursue and complete both her PhD and Masters in Clinical Psychology.
+``
+### Other Notes
+- could not find a licence number, but is singapore-based
+- focuses on childhood trauma
+- "Psychology in Singapore is still an unregulated profession. Anyone can claim to be a psychologist. " [source](https://fass.nus.edu.sg/psy/career-prospects/#:~:text=Psychology%20in%20Singapore%20is%20still,as%20the%20Singapore%20Psychological%20Society.)
+- does post a discalimer to social media therapy [IG highlight](https://www.instagram.com/stories/highlights/18005250436276364/)
+
+---
 ## lovingmeafterwe
 ##### Date Reviewed: 02/11/23
 
@@ -546,3 +588,31 @@ The material provided here is for educational and informational purposes only an
 ### Other Notes
 - The "listed above", provided no list, indicating their privacy policy may be a template.
 - No sort of licence or accreddation to provide that coaching that may/may not work.
+
+---
+## yung_pueblo
+##### Date Reviewed: 02/22/23
+
+[Instagram](https://www.instagram.com/yung_pueblo/)
+
+### Licenced? 
+No (states as a writer)
+
+### Source(s):
+[About](https://yungpueblo.com/about)
+
+``
+Diego Perez is a meditator and #1 New York Times bestselling author who is widely known on Instagram and various social media networks through his pen name Yung Pueblo.
+``
+
+``
+His writing focuses on the power of self-healing, creating healthy relationships, and the wisdom that comes when we truly work on knowing ourselves. 
+``
+### Other Notes
+- Is a writer, so his words and posts based on his own knowldge of the subject matter
+- Mostly sentences and inspiring-type posts
+- Most of his posts at the end pushes his book
+- if not careful, his posts will create confimation bias
+- No social media is not therapy disclaimers
+
+---
