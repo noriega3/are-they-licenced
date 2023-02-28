@@ -19,6 +19,7 @@ Last Updated: 02/22/23
 - [jeanpsychologist](#jeanpsychologist)
 - [lovingmeafterwe](#lovingmeafterwe)
 - [mentalhealthceo](#mentalhealthceo)
+- [myeasytherapy](#myeasytherapy)
 - [no.bs.therapist](#nobstherapist)
 - [notesfromyourtherapist](#notesfromyourtherapist)
 - [thedepressionproject](#thedepressionproject)
@@ -339,6 +340,36 @@ Panelist and Speaker for Beyond The Label, National Council of Social Sciences a
 - most of his content on IG is comic-style per post
 - does not source all of his findings, but does in the description when he does.
 - singapore-based
+
+---
+## myeasytherapy
+##### Date Reviewed: 02/28/23
+
+[Instagram](https://www.instagram.com/myeasytherapy/)
+
+### Licenced? 
+No (UK does not regulate this practice)
+
+### Source(s):
+[Terms and Conditions](https://myeasytherapy.com/terms-and-conditions/)
+
+``
+The content on our site is provided for general information only. It is not intended to amount to medical, specialist or advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.
+``
+
+[About](https://myeasytherapy.com/about/)
+
+``
+I’m a  Clinical Psychologist who has dedicated herself to supporting women worldwide break free from struggles with difficult emotions, self love, anxiety, overthinking, and depression, and confidently step into an awesome life, career, or relationship they actually love.⁠
+``
+
+[Psychology Today Profile](https://www.psychologytoday.com/gb/counselling/my-easy-therapy-london-eng/738811)
+
+
+### Other Notes
+- based in UK
+- terms are a template (with many fields being blank), therefore not taken seriously
+- ...United Kingdom, do not regulate the profession by means of licensing; in the UK, there is no such thing as a ‘licensed practitioner’. (To put it another way, US licensing laws are no more applicable to the UK practice of counselling and psychotherapy than they are to the UK practice of driving.)
 
 ---
 
