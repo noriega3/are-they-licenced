@@ -1,7 +1,7 @@
 # Inspiration
 Since starting on a side-quest into social media therapy, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
-Last Updated: 02/22/23
+Last Updated: 03/09/23
 
 # Table of Contents
 - [artofdatingnyc](#artofdatingnyc)
@@ -17,14 +17,18 @@ Last Updated: 02/22/23
 - [healing.embodied](#healingembodied)
 - [igototherapy](#igototherapy)
 - [jeanpsychologist](#jeanpsychologist)
+- [letstalk.mentalhealth](#letstalkmentalhealth)
 - [lovingmeafterwe](#lovingmeafterwe)
+- [mattraekelboom](#mattraekelboom)
 - [mentalhealthceo](#mentalhealthceo)
 - [myeasytherapy](#myeasytherapy)
 - [no.bs.therapist](#nobstherapist)
 - [notesfromyourtherapist](#notesfromyourtherapist)
+- [powerofpositivity](#powerofpositivity)
 - [thedepressionproject](#thedepressionproject)
 - [the.holistic.psychologist](#theholisticpsychologist)
 - [thelovedrive](#thelovedrive)
+- [unconventionalorganisation](#unconventionalorganisation)
 - [yung_pueblo](#yung_pueblo)
 ---
 ## artofdatingnyc
@@ -443,6 +447,36 @@ It took me years to recover. It was six years after Rafe died before I considere
 - Former username changes: 1
 
 ---
+
+## powerofpositivity
+##### Date Reviewed: 03/09/23
+
+[Instagram](https://www.instagram.com/powerofpositivity/)
+
+### Licenced? 
+No (states as digital creator)
+
+### Source(s):
+[About](https://www.powerofpositivity.com/about-us/)
+
+``
+Founded and owned by Kristen & Chris Butler, Power of Positivity® celebrates the lifestyle of positive thinking and attitude. PoP is located in Asheville, NC and was founded in 2009.  The brands mission is to provide daily inspiration and science-based solutions to its community to improve well-being and create a happier, more positive life.
+``
+
+``
+Kristen considers herself a social media maven since 1998 (only 14 at the time), where she was on bolt.com and quickly became and held ranks as one of the top 10 influencers. Back then, she started a popular group called “Bolt Beauties” that focused on inspiration and inner beauty. She started posting quotes and inspiration here. 
+``
+
+``
+Before PoP, Kristen was a freelance writer, designer, and social media maven for clients. After a few years, she was able to dedicate her time fully to PoP and raise her two sweet girls. You can follow Kristen on Instagram, Twitter, Facebook, and Pinterest.
+``
+
+### Other Notes
+- No creditable background for therapy, other than she is a "social media maven", and provides 'science-based' solutions in PoP
+- Mostly are inspirational quotes from various authors and writers
+- Some IG posts are generalized personal quotes mixed in with author quotes
+
+---
 ## healing.embodied
 ##### Date Reviewed: 02/09/23
 
@@ -502,6 +536,21 @@ Yes/No (see notes)
 - focuses on childhood trauma
 - "Psychology in Singapore is still an unregulated profession. Anyone can claim to be a psychologist. " [source](https://fass.nus.edu.sg/psy/career-prospects/#:~:text=Psychology%20in%20Singapore%20is%20still,as%20the%20Singapore%20Psychological%20Society.)
 - does post a discalimer to social media therapy [IG highlight](https://www.instagram.com/stories/highlights/18005250436276364/)
+---
+## letstalk.mentalhealth
+##### Date Reviewed: 03/09/23
+
+[Instagram](https://www.instagram.com/letstalk.mentalhealth/)
+
+### Licenced? 
+No
+
+### Source(s):
+
+### Other Notes
+- Seems to be an aggregator of many other IGs
+- No information on the posts, very few have references to original IG post
+
 
 ---
 ## lovingmeafterwe
@@ -545,8 +594,35 @@ NPI:	1659830057
 - *Psychiatric nurse practitioners can and do provide psychotherapy, in addition to managing the medical side of psychiatric illnesses.
 - It's a little play on words with her licenced title:  Psychiatric nurse practitioner
 - "...does not provide providing, medical, therapy, or psychotherapy services." is simply coaching with her service.
----
 
+---
+## mattraekelboom
+##### Date Reviewed: 03/09/23
+
+[Instagram](https://www.instagram.com/mattraekelboom/)
+
+### Licenced? 
+No (states as a coach/influencer)
+
+### Source(s):
+[FB](https://www.facebook.com/MattRaekelboomADHD/)
+
+[Resource Page](https://resources.journey2adhd.com/)
+
+[Journey2ADHD](https://journey2adhd.com/)
+
+``
+The content within Journey2ADHD are not alternatives to medical measures offered by medical professionals and should not be treated as such. Always seek the advice of your physician or medical professional. Journey2ADHD is not a professional medical doctor service and does not offer medical diagnoses of any kind. Journey2ADHD is a source for discussion and informational content only. Journey2ADHD cannot guarantee and assumes no legal liability or responsibility for the accuracy, currency, completeness or interpretation of the information contained within the website or platform. The views and opinions expressed on the website and platform are strictly those of the user(s) who authored the content.
+``
+
+### Other Notes
+- Is a coach, but his resource page has licensed content for ADHD
+- More of an infographic-based IG profile
+- Has a valid disclaimer for his site
+- Mostly video-baed IG, countering some misconceptions of ADHD
+
+
+---
 ## thedepressionproject
 ##### Date Reviewed: 02/09/23
 
@@ -619,6 +695,29 @@ The material provided here is for educational and informational purposes only an
 ### Other Notes
 - The "listed above", provided no list, indicating their privacy policy may be a template.
 - No sort of licence or accreddation to provide that coaching that may/may not work.
+
+---
+
+## unconventionalorganisation
+##### Date Reviewed: 03/09/23
+
+[Instagram](https://www.instagram.com/unconventionalorganisation/)
+
+### Licenced? 
+No (states as a coach)
+
+### Source(s):
+[About](https://courses.unconventionalorganisation.com/about)
+
+``
+Unconventional Organisation provides research-backed courses and coaching to people with ADHD or executive dysfunction challenges. We can help you set and achieve your goals, no matter where in the world you are based.
+``
+
+### Other Notes
+- New Zeland based, as their coaching tool
+- Unknown of what "research-backed" pieces are supported by licensed professionals
+- More of an infographic-based IG profile
+
 
 ---
 ## yung_pueblo
