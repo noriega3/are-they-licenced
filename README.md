@@ -1,9 +1,10 @@
 # Inspiration
 Since starting on a side-quest into social media therapy, I felt it was important to log and reference as there are a lot of unvalidated or "experts" that may not be actual board or licenced in the advice they may give or the courses they provide.
 
-Last Updated: 03/09/23
+Last Updated: 03/28/23
 
 # Table of Contents
+- [aileyjolie](#aileyjolie)
 - [artofdatingnyc](#artofdatingnyc)
 - [adhd_couple](#adhd_couple)
 - [awakeningwithbrian](#awakeningwithbrian)
@@ -31,6 +32,58 @@ Last Updated: 03/09/23
 - [unconventionalorganisation](#unconventionalorganisation)
 - [yung_pueblo](#yung_pueblo)
 ---
+
+## aileyjolie
+##### Date Reviewed: 03/28/23
+
+[Instagram](https://www.instagram.com/aileyjolie/)
+
+### Licenced? 
+Yes (see below)
+
+### Source(s):
+[BiographyMain](https://www.aileyjolie.com/biographymain)
+
+``
+Doctorate of Counselling Psychology and Psychotherapy by Professional Studies *``
+
+``Middlesex University & New School of Psychotherapy``
+
+``Master of Science in Medicine (Sexual & Reproductive Health) in Psychosexual Therapy *``
+
+``University of Sydney ``
+
+``Master of Arts in Depth Psychology with Emphasis in Somatic Studies``
+
+``Pacifica Graduate Institute ``
+
+``Master Certificate in Global Mental Health Trauma Recovery``
+
+``Harvard Medical School``
+
+``The * marks how I am still growing by being enrolled or participating in further education.``
+
+[Psychology Today Profile](https://www.psychologytoday.com/ca/therapists/ailey-ella-jolie-vancouver-bc/426002)
+
+```
+Qualifications
+Licence: British Columbia / 16525
+School: Harvard Medical School
+Year Graduated: 2020
+
+Additional Credentials
+Degree: Pacifica Graduate Institute / Master of Arts
+Certificate: BCACC / 16525
+Certificate Date: 2019
+```
+### Other Notes
+- "The * marks how I am still growing by being enrolled or participating in further education." this is important, is still continuing education in the * fields
+- Adds additional context in descriptions
+- no bullet points
+- Ailey Jolie, MCP, MA | Psychotherapist
+
+---
+
 ## artofdatingnyc
 ##### Date Reviewed: 02/11/23
 
